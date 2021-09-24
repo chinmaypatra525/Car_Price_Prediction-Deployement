@@ -16,4 +16,4 @@ _**----- Important Note -----**_<br />
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
 • Sorry for the inconvenience.
 
-![Heroku-Error](readme_resources/application-error-heroku.png)
+![application-error-heroku](https://user-images.githubusercontent.com/89455544/134637278-a6ee79c2-a8bf-4a24-b2e7-d769abbdcea8.png)
